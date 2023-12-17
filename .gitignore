@@ -1,0 +1,9 @@
+*.ld
+*.launch
+*.ioc
+*.project
+*.mxproject
+*.cproject
+.settings/
+Debug/
+Drivers/
